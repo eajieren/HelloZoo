@@ -1,0 +1,8 @@
+C:\Users\eceeh\source\repos\CSharp\ZooEA20221212\ZooEA20221212\bin\Debug\ZooEA20221212.exe.config
+C:\Users\eceeh\source\repos\CSharp\ZooEA20221212\ZooEA20221212\bin\Debug\ZooEA20221212.exe
+C:\Users\eceeh\source\repos\CSharp\ZooEA20221212\ZooEA20221212\bin\Debug\ZooEA20221212.pdb
+C:\Users\eceeh\source\repos\CSharp\ZooEA20221212\ZooEA20221212\obj\Debug\ZooEA20221212.csproj.AssemblyReference.cache
+C:\Users\eceeh\source\repos\CSharp\ZooEA20221212\ZooEA20221212\obj\Debug\ZooEA20221212.csproj.SuggestedBindingRedirects.cache
+C:\Users\eceeh\source\repos\CSharp\ZooEA20221212\ZooEA20221212\obj\Debug\ZooEA20221212.csproj.CoreCompileInputs.cache
+C:\Users\eceeh\source\repos\CSharp\ZooEA20221212\ZooEA20221212\obj\Debug\ZooEA20221212.exe
+C:\Users\eceeh\source\repos\CSharp\ZooEA20221212\ZooEA20221212\obj\Debug\ZooEA20221212.pdb
